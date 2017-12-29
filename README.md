@@ -1,4 +1,4 @@
-# Roerich
+﻿# Roerich
 Spiritual heritage of Nicholas Roerich, archived and analyzed with R.
 
 In English, Russian and French
@@ -18,3 +18,11 @@ https://www.e-reading.club/book.php?book=1028030
 http://aromansse.com/gateway/PDF/The-Tibetan-Book-of-Living-and-Dying.pdf
 de Sogyal Rinpoché
 gritsenko.rutype.ru/books/book_of_living_and_dying.pdf
+
+
+Елена Блаватская - Тайная доктрина: Космогенезис. Том 1
+
+http://www.ezobox.ru/elena-blavatskaya/books/
+
+
+http://www.ezobox.ru/books/genres/philosophy/
